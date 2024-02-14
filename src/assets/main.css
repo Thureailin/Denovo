@@ -1,0 +1,10 @@
+@import './style.css';
+
+nav .router-link-active, nav .router-link-exact-active {
+  color: black !important;
+  font-weight: bold;
+}
+
+#popularFaceNav .router-link-active {
+  text-decoration: underline;
+}
