@@ -2,33 +2,31 @@
   <div class="container">
     <div class="border p-5 shadow-sm my-12">
       <h1 class="cus-heading text-cus-primary mb-3 uppercase lg:mb-8">
-        HYDRATING FACIAL
+        Golden HIFU Treatment
       </h1>
       <p class="leading-6 lg:leading-loose">
-        HydraFacial uses patented technology combined with nourishing ingredients to create an instantly gratifying glow
-        on any skin type. Endorsed by celebrities who use HydraFacials for a quick pick-me-up and a photo-ready glow, see
-        immediate results after one treatment.
+  High-Intensity Focused Ultrasound (HIFU) is a non-invasive medical procedure that uses focused ultrasound waves to treat various conditions. In medical aesthetics, it's often used for facial rejuvenation by tightening the skin and promoting collagen production. Additionally, HIFU has applications in treating certain medical conditions like prostate cancer and uterine fibroids. The procedure is generally considered safe, with minimal downtime compared to traditional surgical interventions.
       </p>
     </div>
   </div>
 
-  <div class="container">
+  <!-- <div class="container">
     <div class="my-12 mx-auto border shadow-sm px-12 py-6">
       <h1 class="cus-heading !font-secondary text-center mb-3 uppercase lg:mb-16">TREATMENT OVERVIEW</h1>
 
       <div class="grid grid-cols-3 gap-20">
         <TreatmentOverviewCard v-for="treatment in data.treatment" :payload="treatment">
           <template  #icon>
-            <!-- <CurrencyDollarIcon class="w-14 h-14 text-cus-secondary" /> -->
+          
             <component class="w-14 h-14 text-cus-primary font-bold" :is="treatment.icon.component"></component>
           </template>
         </TreatmentOverviewCard>
-      </div>
-    </div>
-  </div>
+      </div> -->
+    <!-- </div> -->
+  <!-- </div> -->
 
 
-  <div class="container">
+  <!-- <div class="container">
     <div class="border p-5">
       <div class="lg:mb-12">
         <h1 class="cus-heading !font-secondary text-cus-primary mb-3 uppercase lg:mb-8">
@@ -71,11 +69,11 @@
         </ul>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <div class="container">
     <div class="border p-5 pb-12 shadow-sm my-12 px-12 mx-auto">
-      <h1 class="cus-heading !font-secondary text-center mb-3 uppercase lg:mb-16">Before & After</h1>
+      <h1 class="cus-heading !font-secondary text-center mb-3  lg:mb-16">Before & After <span class="">(Golden HIFU Treatment)</span> </h1>
 
       <div class="grid grid-cols-2 gap-20">
         <div class="grid grid-cols-2 gap-3 relative">
@@ -84,12 +82,12 @@
             <ArrowsRightLeftIcon class="w-12 h-12 text-white" />
           </div>
           <div class="relative">
-            <div class="absolute w-full bg-pink-200 -left-[10%] -top-[10%] h-[300px] z-0"></div>
+            <div class="absolute w-full bg-[#d4af37] -left-[10%] -top-[10%] h-[300px] z-0"></div>
             <div class="relative bg-[url('@/assets/img/asthetic/face1.png')] bg-cover h-[300px] shadow">
             </div>
           </div>
           <div class="relative">
-            <div class="absolute w-full bg-pink-200 -right-[10%] -bottom-[10%] h-[300px] z-0"></div>
+            <div class="absolute w-full bg-[#d4af37] -right-[10%] -bottom-[10%] h-[300px] z-0"></div>
             <div class="relative bg-[url('@/assets/img/asthetic/face1.png')] bg-cover h-[300px] shadow -scale-x-100">
             </div>
           </div>
@@ -101,12 +99,12 @@
             <ArrowsRightLeftIcon class="w-12 h-12 text-white" />
           </div>
           <div class="relative">
-            <div class="absolute w-full bg-pink-200 -left-[10%] -top-[10%] h-[300px] z-0"></div>
+            <div class="absolute w-full bg-[#d4af37] -left-[10%] -top-[10%] h-[300px] z-0"></div>
             <div class="relative bg-[url('@/assets/img/asthetic/face2.png')] bg-cover h-[300px] shadow">
             </div>
           </div>
           <div class="relative">
-            <div class="absolute w-full bg-pink-200 -right-[10%] -bottom-[10%] h-[300px] z-0"></div>
+            <div class="absolute w-full bg-[#d4af37] -right-[10%] -bottom-[10%] h-[300px] z-0"></div>
             <div class="relative bg-[url('@/assets/img/asthetic/face2.png')] bg-cover h-[300px] shadow -scale-x-100">
             </div>
           </div>

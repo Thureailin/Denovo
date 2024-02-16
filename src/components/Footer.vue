@@ -44,12 +44,12 @@ const urls = [
                 <h1 class="text-[#a57c00] text-[18px] mb-2">Aesthetic Center</h1>
                 <p>
                   Block A-1, No-001, Corner of Hanthawaddy Road and Hnin Si
-                  Street, Yuzana Hi-way Complex, Kamayut Township, Yangon,
+                  Street, Yuzana Hi-Way Complex, Kamaryut Township, Yangon,
                   Myanmar.
                 </p>
 
                 <h1 class="mt-5 text-[#a57c00] text-[18px] mb-2">Plastic Surgery Center</h1>
-                <p class="">Block A-1, No-006, Hain Si Street, Yuzana Hi-way Complex, Kamayut Township, Yangon, Myanmar.
+                <p class="">Block A-1, No-006, Hain Si Street, Yuzana Hi-Way Complex, Kamaryut Township, Yangon, Myanmar.
 
 </p>
               </div>
@@ -72,11 +72,11 @@ const urls = [
                     class="hover:underline"
                     >clinicdenovo<br class="hidden lg:block" />@gmail.com</a
                   > -->
-                  <a>clinicdenovo@gmail.com</a>
+                  <a>theclinicdenovo@gmail.com</a>
                 </li>
                 <li class="mb-3 flex">
                   <a
-                    href="#"
+                    href="https://www.instagram.com/theclinicdenovoaesthetic/p/CzsZoCOpk6-/"
                     class="hover:text-gray-900 dark:hover:text-white mr-3"
                   >
                     <svg
@@ -92,7 +92,7 @@ const urls = [
                     <span class="sr-only">Instagram page</span>
                   </a>
                   <a
-                    href="#"
+                    href="https://www.facebook.com/TheClinicDeNovo?mibextid=LQQJ4d"
                     class="hover:text-gray-900 dark:hover:text-white mr-3"
                   >
                     <svg
@@ -108,7 +108,7 @@ const urls = [
                     <span class="sr-only">Facebook page</span>
                   </a>
 
-                  <a href="" class="mr-3">
+                  <a href='https://www.tiktok.com/@denovo66?_r=1&_d=dbf81c4jah24hd&sec_uid=MS4wLjABAAAANDaJIl5-avLsntsPEGQtlZEne6FrYSwflfkIKt57GI9IY4o9oZDDt13dA64zdJ7w&share_author_id=7239628873766880274&sharer_language=en&source=h5_m&u_code=d0l6cah54g0447&ug_btm=b6880,b5836&sec_user_id=MS4wLjABAAAAuhjb3tTIZR-daRzbtxDOpXS7vd0LKy-5LrvQ6mtpztoAsUs68xwTHWYvwN4V1AFT&utm_source=copy&social_share_type=5&utm_campaign=client_share&utm_medium=ios&tt_from=copy&user_id=6572752724751777793&enable_checksum=1&share_link_id=6EB3B787-294D-4FD0-BA90-6B5FE3C4542B&share_app_id=1233' class="mr-3">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       height="1rem"
@@ -119,7 +119,7 @@ const urls = [
                       />
                     </svg>
                   </a>
-                  <a href="">
+                  <a href="https://youtube.com/@theclinicdenovo?si=s_AQYyZplZ07WH60">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       height="1em"

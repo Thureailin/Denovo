@@ -236,7 +236,7 @@ const toggleNav = () => isNavOn.value = !isNavOn.value
 </script>
 <template>
   <nav
-    class="sticky top-0 z-50 flex-no-wrap flex w-full items-center justify-between bg-cus-primary shadow-md shadow-black/5 dark:shadow-black/10 lg:flex-wrap lg:justify-start">
+    class="sticky top-0 z-50 flex-no-wrap flex w-full items-center justify-between bg-[#a57c00] shadow-md shadow-black/5 dark:shadow-black/10 lg:flex-wrap lg:justify-start">
     <div class="container">
       <div id="navElementButton"
         class="transition-all duration-700 flex w-full flex-wrap px-3 items-center justify-end lg:justify-center lg:px-0 overflow-hidden">

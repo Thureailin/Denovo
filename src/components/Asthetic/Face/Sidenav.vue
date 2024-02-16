@@ -26,12 +26,21 @@ const list = ref(null)
 
 const urls = [
   {
-    title: 'Hydarting Facial',
+    title: 'Golden HIFU Treatment',
     name: 'asthetic.face.popular-face.hydrating-facial'
   },
   {
-    title: 'Detox Facial',
+    title: 'Laser Toning Treatment',
     name: 'asthetic.face.popular-face.detox-facial'
+  },
+  { title : 'Pico Toning Treatment',
+    name:''
+  },
+  { title : 'Kyi Tauk Shin Treatment',
+    name:''
+  },
+  { title : 'Co2 Laser Treatment',
+    name:''
   },
 ]
 

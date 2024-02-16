@@ -48,7 +48,7 @@ const router = createRouter({
                   path: "hydrating-facial",
                   name: "asthetic.face.popular-face.hydrating-facial",
                   meta: {
-                    title: 'Popular Face'
+                    title: 'Popular Treatment'
                   },
                   component: HydratingFacial
                 },
@@ -61,6 +61,7 @@ const router = createRouter({
                   },
                   component: DetoxFacial
                 }
+                
               ]
             }
           ]

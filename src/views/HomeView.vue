@@ -1,30 +1,37 @@
 <script setup>
 import { PlayCircleIcon, ChevronRightIcon } from '@heroicons/vue/24/outline'
 import  Testimonials from '@/components/Home/Testimonials.vue';
+// import videobb from "../assets/videos/about-us/short.mp4"
 </script>
 
 <template>
   <main class="mb-12">
     <!-- <img src="@/assets/img/1.png" alt=""> -->
     <!-- hero section -->
+     <!-- bg-[url('@/assets/img/1.png')] -->
     <section>
-      <div class="relative h-[600px] bg-[url('@/assets/img/1.png')]">
+      <div class="relative ">
         <div class="backdrop-blur-sm bg-white/30 w-full h-full">
-          <div class="absolute top-[30%] text-center w-full h-full">
+          <div class=" top-[30%] text-center w-full h-full">
             <div>
               <div>
-                <h1 class="cus-heading text-cus-primary uppercase mb-12">elevate your look, empower yourself.</h1>
+                <!-- <video controls autoPlay className="w-full h-[700px]">
+ 
+ <source src='videobb' type="video/ogg"/>
+ - Your browser does not support the video tag. -->
+<!-- </video> -->
+                <!-- <h1 class="cus-heading text-cus-primary uppercase mb-12">elevate your look, empower yourself.</h1>
                 <a href=""
                   class="p-4 px-9 text-xl border-2 font-bold border-cus-primary text-cus-primary transition-colors hover:bg-cus-primary hover:text-white">Book
-                  now</a>
+                  now</a> -->
               </div>
             </div>
           </div>
         </div>
-        <div class="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3">
+        <!-- <div class="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3">
           <PlayCircleIcon class="h-12 w-12 text-cus-primary" />
           <p class="text-2xl uppercase font-bold text-cus-primary">play full</p>
-        </div>
+        </div> -->
       </div>
     </section>
     <!-- welcome section -->
